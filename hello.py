@@ -1,5 +1,6 @@
 def hello():
-    if True :
+    count = 0
+    if count == 0 :
         print("hello, world!")
     
 if __name__ == '__main__':
